@@ -1,3 +1,5 @@
 # netlix.github.io
 # Output
-![riteshghodela github io_netlix github io_](https://github.com/RiteshGhodela/netlix.github.io/assets/105776519/2a988020-57a7-46b9-9bf6-e8f4e93df4b7)
+# This Is Netflix Clone
+
+![riteshghodela github io_netlix github io_ (1)](https://github.com/RiteshGhodela/netlix.github.io/assets/105776519/fb85e488-fc1f-4499-890c-b5937d78db42)
